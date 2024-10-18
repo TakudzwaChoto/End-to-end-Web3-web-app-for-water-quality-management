@@ -23,12 +23,8 @@ The **Water Quality Management System** is an innovative project developed using
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/TakudzwaChoto/End-to-end-Web3-web-app-for-water-quality-management.git
    ```
-### Navigate to the project directory:
- ```bash
-cd YourRepository
- ```
 ### Install the required packages:
 
  ```bash

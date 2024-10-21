@@ -39,10 +39,10 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for enhancements or bug fixes.
 
 ### Acknowledgments
-**Flask** - The web framework used for the backend.
-**Web3** - JavaScript library for interacting with Ethereum.
-**MetaMask** - Crypto wallet and gateway to blockchain apps.
-**Alchemy** - Developer platform for building on blockchain.
+- **Flask** : The web framework used for the backend.
+- **Web3** : JavaScript library for interacting with Ethereum.
+- **MetaMask** : Crypto wallet and gateway to blockchain apps.
+- **Alchemy** : Developer platform for building on blockchain.
 
 ## References
 - **Flask Documentation**: https://flask.palletsprojects.com/en/2.0.x/

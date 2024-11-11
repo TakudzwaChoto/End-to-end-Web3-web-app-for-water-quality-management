@@ -70,6 +70,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ### Submitting data
 ![{1B15CCDC-8BB7-4D85-B2B3-BE6954B48B6C}](https://github.com/user-attachments/assets/49c1bbb2-12f6-4a66-8fbe-7a4bd4455fca)
 
+### Updating water data
+![{B1597184-EB2A-4C44-BC17-559068133398}](https://github.com/user-attachments/assets/5b248195-183b-4e33-9139-0863d904b493)
+
 ###  Pending Submited data
 ![{E13117D9-00AA-4B0E-97D6-E84801FE3BDA}](https://github.com/user-attachments/assets/30ce8c13-acbe-49ff-a867-f0cf1cc64928)
 
@@ -89,6 +92,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ### Submitted water now valited for tom by swust
 ![{243CB808-3806-4D09-B73A-3A9260A998FD}](https://github.com/user-attachments/assets/a9288273-0712-4c16-8983-6d5f21793962)
+
+### Query the data
+![{4BBBE777-05E0-4CF3-9954-C148225F186F}](https://github.com/user-attachments/assets/12b5bfbd-568e-4ee2-8ab3-e6877289cf57)
 
 
 
